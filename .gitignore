@@ -41,3 +41,6 @@ luac.out
 
 /ctags58/
 /vim92/
+
+# Generated Vim help tag indexes
+/vimfiles/plugged/*/doc/tags

@@ -74,6 +74,13 @@ Plug 'prabirshrestha/vim-lsp'
 Plug 'prabirshrestha/asyncomplete.vim'
 Plug 'prabirshrestha/asyncomplete-lsp.vim'
 Plug 'preservim/nerdtree'
+Plug 'tpope/vim-fugitive'
+Plug 'vim-scripts/dbext.vim'
+Plug 'vim-scripts/DirDiff.vim'
+Plug 'tyru/open-browser.vim'
+Plug 'vim-scripts/taglist.vim'
+Plug 'godlygeek/tabular'
+Plug 'preservim/vim-markdown'
 call plug#end()
 
 " LVON: language server (IntelliSense) for C# via csharp-ls

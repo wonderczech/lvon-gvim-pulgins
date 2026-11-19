@@ -1,3 +1,6 @@
+" Use the original local Markdown syntax and Visual Studio Dark palette.
+execute 'source ' . fnameescape(fnamemodify(expand('<sfile>:p'), ':h:h:h') . '\syntax\mkd.vim')
+
 " Correctly recognise inline code ending with a Windows backslash.
 " Example: `%LOCALAPPDATA%\SupportPortal\`
 syntax match mkdCode /`[^`\r\n]*\\`/ oneline
