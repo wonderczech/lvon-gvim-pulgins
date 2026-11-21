@@ -44,3 +44,6 @@ luac.out
 
 # Generated Vim help tag indexes
 /vimfiles/plugged/*/doc/tags
+
+# vim-plug installed plugin checkouts
+/vimfiles/plugged/*/
